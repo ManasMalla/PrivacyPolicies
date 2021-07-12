@@ -1,9 +1,11 @@
-**Privacy Policy**
+# **Privacy Policy**
 
-Manas Malla built the 'Landmarks' app as free app to educate about the usage of basic of the Flutter Language and their widgets. This SERVICE is provided by Manas Malla at no cost and is intended for use as is.
+Manas Malla built the **Landmarks ©** app (FREE) to educate about the **basics of the Flutter Language and its widgets**.
 
-The app was coded using Android’s official IDE, Android Studio and Visual Studio. The language used was Flutter and Dart!
-The app helps us revive the beauty of our blue green world and helps to materialise some of Flutter's most basic widgets! It also helps beginners to try to algorithmise the various embedded/hidden widgets made to build the layout!
+This SERVICE is provided by Manas Malla at no cost and is intended for use as is.
+
+The app was coded using Android’s official IDE, Android Studio and Visual Studio. The language used was **Flutter and Dart**!
+The app helps us revive the **beauty of our blue green world** and helps to **materialise some of Flutter's most basic widgets**! It also helps beginners to try to **algorithmise the various embedded/hidden widgets made to build the layout**!
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
